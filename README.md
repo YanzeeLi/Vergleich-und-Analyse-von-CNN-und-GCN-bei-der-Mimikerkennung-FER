@@ -2,10 +2,10 @@
 
 
 Die 4 Datei können durch Google Driver gefunden: 
-  +A.npy : Adjazenzmatrix, die basierend auf dem eingegebenen Bild generiert wurde.
-  +D.npy : Gradmatrix generiert aus dem Eingangsbild.
-  +EMo_DATA_ndarray.zip : Datensets
-  +shape_predictor_68_face_landmarks.dat : Landmark-68-Modelldatei
+  + A.npy : Adjazenzmatrix, die basierend auf dem eingegebenen Bild generiert wurde.
+  + D.npy : Gradmatrix generiert aus dem Eingangsbild.
+  + EMo_DATA_ndarray.zip : Datensets
+  + shape_predictor_68_face_landmarks.dat : Landmark-68-Modelldatei
 
 
 Hier ist das Link:
